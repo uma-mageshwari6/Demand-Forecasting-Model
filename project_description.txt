@@ -1,0 +1,13 @@
+TITLE: Demand Forecasting Model
+
+DESCRIPTION:
+A forecasting system that predicts future product or service demand so organizations can optimize inventory and logistics. The project can combine historical sales with seasonality, holidays, promotions, price changes, and other demand-related variables.
+
+OBJECTIVE:
+Predict future demand accurately enough to support inventory planning and logistics decisions.
+
+SUGGESTED MODELS:
+ARIMA/SARIMA, Exponential Smoothing, Random Forest/XGBoost, LSTM or other time-series models
+
+EXPECTED OUTPUT:
+Forecasted demand by time period, forecast plots, MAE/RMSE/MAPE, inventory-planning insights.
