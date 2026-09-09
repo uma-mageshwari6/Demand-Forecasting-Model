@@ -1,17 +1,3 @@
-"""
-Project 4: Demand Forecasting Model
-Predict future product demand using previous demand values and calendar features.
-
-Install:
-    pip install pandas scikit-learn
-
-Run:
-    python 04_demand_forecasting_model.py
-
-This is a demo. Replace the generated data with real sales history for a
-meaningful forecasting model.
-"""
-
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
